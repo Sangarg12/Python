@@ -1,3 +1,2 @@
-# sangarg-data
-
-All these files are to understand python basic data structure.
+# Python
+Please go through all files in folder with serial numbers.
